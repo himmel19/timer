@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:   plum;
+}
+
+.container {
+    text-align: center;
+}
+
+#timerDisplay {
+    font-size: 2em;
+    margin-top: 20px;
+}
